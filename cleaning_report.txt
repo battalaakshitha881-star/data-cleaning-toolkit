@@ -1,0 +1,7 @@
+DATA CLEANING REPORT - TITANIC DATASET
+========================================
+Original shape: (891, 12)
+Cleaned shape: (891, 11)
+Nulls fixed: 866
+Columns dropped: Cabin
+Columns standardized: all lowercase
